@@ -15,6 +15,6 @@ The *Ranking* tab provides ranges of layout helping the user to present their gr
 The resolution came to '1.0' which helped me define my graph as a smaller community of networks. The Network graph showed the four central people on my Facebook network. They are an evident example of *eigenvector centrality* as they promote the trend of evolving numerous connections. **Betweenness** is the shortest paths between any two individuals. The names labelled in red font represent the names that have the most paths running through them.
 ** 1.Eavan Hennessy 
    2.Niamh Emmett 
-   3.Eilis McFarlane**. 
-  They help to connect each cluster together. They may not be able to exemplify betweenness as they remain to be unacquainted with the 'outsiders' on the network. They still in theory have broken networks due to their unfamiliarity with certain users.*(Patrick Harte)*.These nodes of greater centrality also lack in providing an influence because of their inefficient betweenness centrality.
-[Visit Gephi today to see your networks of friends connections!](www.http://gephi.github.io). 
+   3.Eilis McFarlane** 
+  They help to connect each cluster together. They may not be able to exemplify betweenness as they remain to be unacquainted with the 'outsiders' on the network. They still in theory have broken networks due to their unfamiliarity with certain users.**(Patrick Harte)**.These nodes of greater centrality also lack in providing an influence because of their inefficient betweenness centrality.
+[Visit Gephi today to see your networks of friends connections!] (www.http://gephi.github.io). 
